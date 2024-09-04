@@ -24,9 +24,6 @@ Adjustable Time Digital Clock
 
 <video src="https://github.com/user-attachments/assets/ae05a406-ecce-4c72-9af1-dec533bb6032" controls="controls" style="max-width: 730px;"></video>
 
-Multi-bit BCD Calculator
-
-<video src="https://www.youtube.com/watch?v=p0pT0nNhKNo&list=PLUhtEYyYJzAEmm0YkFJ-KM80S-q9nK5Jz&index=3" controls="controls" style="max-width: 730px;"></video>
 
 Blackjack game (Python)
 
