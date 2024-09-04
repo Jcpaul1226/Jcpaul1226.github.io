@@ -20,6 +20,11 @@ Production Assistant
 ▪ Various Microcontroller (PIC18F4620, STM32) and FPGA (Nexys A7-100T) Projects
 - Alarm Clock
 - VGA Game of Tag
+  
+
+https://github.com/user-attachments/assets/b2b8cca3-b026-47bb-9f3b-9cc84fe8167b
+
+
 - Streetlight
 - Adjustable Fan speed
 - Adjustable Time Digital Clock
