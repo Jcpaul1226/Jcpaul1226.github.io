@@ -22,7 +22,7 @@ Group Senior project, specifically working on the sensors portion (360 RPLidar a
   VGA Game of Tag
   
 
-https://github.com/user-attachments/assets/b2b8cca3-b026-47bb-9f3b-9cc84fe8167b
+<video src="https://github.com/user-attachments/assets/b2b8cca3-b026-47bb-9f3b-9cc84fe8167b"></video>
 
 
 Streetlight
