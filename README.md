@@ -28,5 +28,21 @@ https://github.com/user-attachments/assets/b2b8cca3-b026-47bb-9f3b-9cc84fe8167b
 Streetlight
 Adjustable Fan speed
 Adjustable Time Digital Clock
+
+
+
+https://github.com/user-attachments/assets/ae05a406-ecce-4c72-9af1-dec533bb6032
+
+
+
 Multi-bit BCD Calculator
+
+https://www.youtube.com/watch?v=p0pT0nNhKNo&list=PLUhtEYyYJzAEmm0YkFJ-KM80S-q9nK5Jz&index=3
+
 Blackjack game (Python)
+
+
+
+https://github.com/user-attachments/assets/4c0a1bf7-8261-44b7-9ba1-a0a15066870c
+
+
