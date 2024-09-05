@@ -1,17 +1,18 @@
-# Computer Engineer
+# About Me
+Aspiring Computer Engineer with 6+ years of work experience in Customer Service. Adept at combining technical expertise with a creative approach to problem-solving. Experienced in hardware and software development, I thrive in dynamic environments where I can apply my skills to drive technological advancements. My expertise spans across embedded systems, digital signal processing, and high-performance computing.
 
 ### Education
-California State Polytechnic University Pomona
+California State Polytechnic University Pomona <br />
 Computer Engineering, BS
 
 ### Work Experience
-Boiling Point     2018 - Present
-_Supervisor_
+Boiling Point     2018 - Present <br />
+_Supervisor_ <br />
 ▪ Responsible for resolving problems internally and externally, such as with customers or employees, resulting in 
 me being a proactive problem solver with strong communication and interpersonal skills. 
 
-SpaceX (Contract)  November - December 2023
-_Production Assistant_
+SpaceX (Contract)  November - December 2023 <br />
+_Production Assistant_ <br />
 ▪ Proficient in handling logistics, scheduling, and managing inventory to keep things organized and on schedule 
 for the project at hand. Project was supposed to be for one month but was finished in three weeks.
 
@@ -33,58 +34,7 @@ Blackjack game (Python)
 
 <video src="https://github.com/user-attachments/assets/4c0a1bf7-8261-44b7-9ba1-a0a15066870c" controls="controls" style="max-width: 730px;"></video>
 
-<div id="experience-timeline">
-    <div data-date="September 2015 – September 2016">
-        <h3>Employer Name</h3>
-        <h4>Job Title</h4>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex.
-        </p>
-    </div>
-  <div data-date="September 2015 – September 2016">
-        <h3>Employer Name</h3>
-        <h4>Job Title</h4>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex.
-        </p>
-    </div>
-  <div data-date="September 2015 – September 2016">
-        <h3>Employer Name</h3>
-        <h4>Job Title</h4>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex.
-        </p>
-    </div>
-</div>
 
 ## Skills
 Verilog, C, C++, Embedded C, Xilinx FPGA, VHDL, LabVIEW, Microcontrollers,  Visual Studio,
 Linux, HTML, Assembly, Python, Java, JavaScript, Object Oriented Programming, STM32, I2C, UART
-
-// Create timeline
-    $('#experience-timeline').each(function() {
-
-        $this = $(this); // Store reference to this
-        $userContent = $this.children('div'); // user content
-
-        // Create each timeline block
-        $userContent.each(function() {
-            $(this).addClass('vtimeline-content').wrap('<div class="vtimeline-point"><div class="vtimeline-block"></div></div>');
-        });
-
-        // Add icons to each block
-        $this.find('.vtimeline-point').each(function() {
-            $(this).prepend('<div class="vtimeline-icon"><i class="fa fa-map-marker"></i></div>');
-        });
-
-        // Add dates to the timeline if exists
-        $this.find('.vtimeline-content').each(function() {
-            var date = $(this).data('date');
-            if (date) { // Prepend if exists
-                $(this).parent().prepend('<span class="vtimeline-date">'+date+'</span>');
-            }
-        });
-
-    });
-
-
