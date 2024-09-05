@@ -1,4 +1,4 @@
 title: Joshua Paul
-logo: Headshot.jpg
+logo: <img src="Headshot.jpg" border-radius: 50% />
 description: <A href="https://www.linkedin.com/in/joshua-paul-77a932193"/>Linkedin</A> <br /> <A href="https://docs.google.com/presentation/d/1gFziXP8IPxsRFcvgIu8lnYPRqxgm4jdaDLlgYsf6-eE/edit?usp=sharing">Link to Detailed Portfolio</A> <br /> <A href="https://drive.google.com/file/d/1jx6ertF0n9DGQKqfZ7V5kJSm51mJJQWf/view?usp=sharing">Link to Resume</A> 
 theme: jekyll-theme-minimal
