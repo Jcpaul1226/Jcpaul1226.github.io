@@ -1,22 +1,19 @@
-# About Me
-Aspiring Computer Engineer with 6+ years of work experience in Customer Service. Adept at combining technical expertise with a creative approach to problem-solving. Experienced in hardware and software development, I thrive in dynamic environments where I can apply my skills to drive technological advancements. My expertise spans across embedded systems, digital signal processing, and high-performance computing.
-
-### Education
-California State Polytechnic University Pomona <br />
-Computer Engineering, BS
-
-### Work Experience
-Boiling Point     2018 - Present <br />
+# Computer Engineer
+<br /> **Technical Skills: Verilog, C, Python, Embedded Systems**
+# Education
+B.S, Computer Engineering California State Polytechnic University Pomona (May 2023) <br />
+# Work Experience
+## Boiling Point             2018 - Present <br />
 _Supervisor_ <br />
 ▪ Responsible for resolving problems internally and externally, such as with customers or employees, resulting in 
 me being a proactive problem solver with strong communication and interpersonal skills. 
 
-SpaceX (Contract)  November - December 2023 <br />
+## SpaceX (Contract)          November - December 2023 <br />
 _Production Assistant_ <br />
 ▪ Proficient in handling logistics, scheduling, and managing inventory to keep things organized and on schedule 
 for the project at hand. Project was supposed to be for one month but was finished in three weeks.
 
-### Notable Projects
+## Notable Projects
 ▪Flying Unmanned Ground Drone “Kepler-1708b” (NASA Minds 2023 Competition)
 
 <img width="690" alt="UGV" src="https://github.com/user-attachments/assets/b69d6bed-6f31-4aed-8035-2e7aa79a6a42">
@@ -34,7 +31,3 @@ Blackjack game (Python)
 
 <video src="https://github.com/user-attachments/assets/4c0a1bf7-8261-44b7-9ba1-a0a15066870c" controls="controls" style="max-width: 730px;"></video>
 
-
-## Skills
-Verilog, C, C++, Embedded C, Xilinx FPGA, VHDL, LabVIEW, Microcontrollers,  Visual Studio,
-Linux, HTML, Assembly, Python, Java, JavaScript, Object Oriented Programming, STM32, I2C, UART
