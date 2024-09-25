@@ -34,5 +34,5 @@ for the project at hand. Project was supposed to be for one month but was finish
 
 <video src="https://github.com/user-attachments/assets/4c0a1bf7-8261-44b7-9ba1-a0a15066870c" controls="controls" style="max-width: 730px;"></video>
 
-<a href="Job Application Filter.pdf" class="image fit" target="_blank"> Job Application filter </a>
+<a href="Job Application Filter.pdf" class="image fit" type="application/pdf"> Job Application filter </a>
 
