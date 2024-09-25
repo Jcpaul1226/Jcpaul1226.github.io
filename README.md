@@ -34,5 +34,5 @@ for the project at hand. Project was supposed to be for one month but was finish
 
 <video src="https://github.com/user-attachments/assets/4c0a1bf7-8261-44b7-9ba1-a0a15066870c" controls="controls" style="max-width: 730px;"></video>
 
-<A href="https://docs.google.com/presentation/d/16TmyUUOytMxz-GObOUJfdFqMh3lhYRWCBujr8nwj_9U/edit?usp=sharing"/>Gmail to Excel Filter</A> <br />
+<a href="Job Application Filter.pdf" class="image fit">< alt=""></a>
 
