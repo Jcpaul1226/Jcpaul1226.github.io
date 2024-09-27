@@ -1,7 +1,7 @@
 # Computer Engineer
 <br /> **Technical Skills: Verilog, C, Python, Embedded Systems**
 # Education
-B.S.,     Computer Engineering California State Polytechnic University of Pomona (May 2023) <br />
+B.S. Computer Engineering                California State Polytechnic University of Pomona  <br />
 
 # Work Experience
 **Boiling Point                           2018 - Present** <br />
