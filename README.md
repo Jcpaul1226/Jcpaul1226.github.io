@@ -4,12 +4,12 @@
 B.S. Computer Engineering   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; California State Polytechnic University of Pomona  <br />
 
 # Work Experience
-**Boiling Point                           2018 - Present** <br />
+**Boiling Point    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2018 - Present** <br />
 _Supervisor_ <br />
 ▪ Responsible for resolving problems internally and externally, such as with customers or employees, resulting in 
 me being a proactive problem solver with strong communication and interpersonal skills. 
 
-**SpaceX (Contract)                        November - December 2023** <br />
+**SpaceX (Contract)   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; November - December 2023** <br />
 _Production Assistant_ <br />
 ▪ Proficient in handling logistics, scheduling, and managing inventory to keep things organized and on schedule 
 for the project at hand. Project was supposed to be for one month but was finished in three weeks.
