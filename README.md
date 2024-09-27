@@ -4,7 +4,6 @@
 B.S. Computer Engineering <br/>  
 California State Polytechnic University of Pomona  <br />
 
----<br><br>
 
 # Work Experience
 **Boiling Point(June 2018 - present)** <br />
