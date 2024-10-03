@@ -35,7 +35,7 @@ for the project at hand. Project was supposed to be for one month but was finish
 *Creating an Interperter in Go*
 Roadmap: Lexer -> Parser -> AST (Abstract Synytax Tree) -> Evaluator
 Finished: Lexer
-<img width="690" alt="UGV" src="https://github.com/user-attachments/assets/b69d6bed-6f31-4aed-8035-2e7aa79a6a42">
+<img width="690" alt="UGV" src="Lexer.PNG">
 Current Step: Parser
 
 
